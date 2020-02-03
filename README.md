@@ -2,6 +2,11 @@
 https://appdividend.com/2018/09/12/angular-charts-example-tutorial/
 https://mdbootstrap.com/docs/jquery/javascript/charts/
 
+提供資料來源
+D:
+cd D:\AngularWorkspaceA\AngularChartJS
+json-server --watch data.json --port 4000
+
 # AngularChartJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
